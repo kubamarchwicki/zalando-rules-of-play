@@ -1,4 +1,5 @@
 = Zalando Tech's Rules of Play
+:toc:
 
 == The Rules, Briefly
 
